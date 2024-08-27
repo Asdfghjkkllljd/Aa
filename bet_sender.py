@@ -3,8 +3,8 @@ from pyrogram.types import Message
 import asyncio
 from config import CHANNEL_ID
 
-api_id = "24358012"#сюда свой апи ид
-api_hash = "91d2a8b47ee15785113d8e27c51e0427"#а сюда апи хеш
+api_id = "25035563"#сюда свой апи ид
+api_hash = "35d8bab5f1425faf7e0616337a954f50"#а сюда апи хеш
 
 app = Client('bot', api_id=api_id, api_hash=api_hash)
 
