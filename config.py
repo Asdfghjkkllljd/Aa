@@ -8,9 +8,9 @@ BET_URL = "t.me/send?start=IV14sLrfOIDt" # Ссылка на счет
 
 CRYPTOPAY_TOKEN = "252218:AA8AQqSvK4Fa2xmnsYkjSUnTMJn7svXv9Ux" # Тут CryptoPay токен 
 
-WIN_IMAGE = "win.jpeg" # Название файла с картинкой выигрыша
+WIN_IMAGE = "win.jpg" # Название файла с картинкой выигрыша
 
-LOSE_IMAGE = "lose.jpeg" # Название файла с картинкой проигрыша
+LOSE_IMAGE = "lose.jpg" # Название файла с картинкой проигрыша
 
 LOGS_ID = -1002182320188 # ID канала с оплатами
  
