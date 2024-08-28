@@ -1,4 +1,4 @@
-TOKEN = "6635571650:AAHhuekwTRlPNMzwCOhY0fZUTg8PkNNx2GE" # Токен бота
+TOKEN = "7326841971:AAG6H7GYdGkxzoTxt6PNyyY3Emeoim8gH80" # Токен бота
 
 CHANNEL_ID = -1002220727686 # ID канала со ставками 
 
